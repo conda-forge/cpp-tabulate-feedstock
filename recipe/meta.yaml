@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/p-ranav/tabulate/archive/v{{ version }}.tar.gz
-  sha256: 6cd4ba3e71a9691db83a0a5783099c90e55dedf71a6fac102efe442700c4344b
+  sha256: d1739e82f9f5acab084a5166a78714fde5198ce6b9448ec8ae8e403085048f7e
 
 build:
   number: 0
